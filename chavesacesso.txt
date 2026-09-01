@@ -1,1 +1,3 @@
-[ { "key": "free", "active": true, "expires_at": null, "plan": "vip", "user": "fulano" } ]
+[
+  { "key": "CFJ", "active": true, "expires_at": null, "plan": "vip", "user": "fulano" }
+]
